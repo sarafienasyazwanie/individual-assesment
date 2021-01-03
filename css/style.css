@@ -1,0 +1,44 @@
+body
+{
+    background-color: rgb(240, 211, 199);
+}
+p
+{
+    font-family: 'Lemonada', cursive;
+    text-align: center;
+    font-size: small;
+    color:saddlebrown;
+}
+h1
+{
+    font-family: 'Jacques Francois Shadow', cursive;
+    font-size: 80px;
+    color: rgb(189, 98, 62);
+}
+marquee 
+{
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    color: rosybrown;
+}
+tr
+{
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: small;
+    color:saddlebrown;
+}
+li
+{
+    font-family: 'Patua One', cursive;
+    text-align: center;
+    font-size: medium;
+    color:saddlebrown;
+}
+div
+{
+    font-family: 'Gaegu', cursive;
+    text-align: center;
+    font-size: medium;
+    color:saddlebrown;
+}
